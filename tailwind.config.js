@@ -3,8 +3,8 @@ export default {
   content: [
     './resources/views/**/*.edge',
     './resources/assets/ts/**/*.ts',
-    './resources/js/**/*.tsx',
-    './resources/js/**/*.ts',
+    './inertia/**/*.tsx',
+    './inertia/**/*.ts',
   ],
   theme: {
     extend: {
